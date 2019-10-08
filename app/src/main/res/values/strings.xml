@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Radio button - lesson 9</string>
+    <string name="title_text">Select one fruit</string>
+    <string name="apple">Apple</string>
+    <string name="orange">Orange</string>
+    <string name="grapes">Grapes</string>
+    <string name="result_text">-</string>
+</resources>
